@@ -1,5 +1,5 @@
 <h2> Modpack for friends! </h3>
-<p>Includes most of the top mods, without making the game easier.<p>
+<p>Includes most of the top mods, without making the game much easier.<p>
 <p>Special features include:</p>
 <ul>
  <li>Skinwalkers</li>
